@@ -3,7 +3,6 @@ date_default_timezone_set('Asia/Tokyo');
 $id = $_POST['id'];
 $pass = $_POST['pass'];
 
-
 if ($id === '' | $pass === '') {
   header('location:bbs.php');
   exit();
