@@ -7,7 +7,7 @@
       <div class="collapse navbar-collapse" id="navbarsExampleDefault">
         <ul class="navbar-nav mr-auto">
           <li class="nav-item"><a class="nav-link" href="#">アルバム</a></li>
-          <li class="nav-item"><a class="nav-link" href="#">掲示板</a></li>
+          <li class="nav-item"><a class="nav-link" href="bbs.php">掲示板</a></li>
         </ul>
       </div>
     </nav>

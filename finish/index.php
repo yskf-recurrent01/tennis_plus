@@ -1,4 +1,6 @@
 <?php
+require_once 'func/functions.php';
+
 $dir = 'info/';
 $base_filename = 'info';
 $filename = $dir . $base_filename . '.csv';
